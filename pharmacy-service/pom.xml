@@ -6,4 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>pharmacy-service</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>ma.nour.phar</groupId>
+  		<artifactId>pharmacy-repository</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
