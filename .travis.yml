@@ -1,5 +1,5 @@
 language: java
-before_install: sudo pip install codecov
-after_success: codecov
+#before_install: sudo pip install codecov
+#after_success: codecov
 
-install: mvn clean package -DskipTests=true
+#install: mvn clean package -DskipTests=true
